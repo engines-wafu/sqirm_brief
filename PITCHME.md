@@ -1,33 +1,22 @@
-# Black
+# sqirm
 
-### A GitPitch Presentation Template
-
----
-
-## Tips!
-
-<br>
-
-@fa[arrows gp-tip](Press F to go Fullscreen)
-
-@fa[microphone gp-tip](Press S for Speaker Notes)
+### simple quality, issue, and risk management
 
 ---
 
-## Template Features
+## context
 
-- Code Presenting |
-- Repo Source, Static Blocks, GIST |
-- Custom CSS Styling |
-- Slideshow Background Image |
-- Slide-specific Background Images |
-- Custom Logo, TOC, and Footnotes |
+- Risks (in the form of bowtie assessments).
 
----?code=sample/go/server.go&lang=golang&title=Golang File
+- Key performance indicators using either of the following:
 
-@[1,3-6](Present code found within any repo source file.)
-@[8-18](Without ever leaving your slideshow.)
-@[19-28](Using GitPitch code-presenting with (optional) annotations.)
+ - Static, or user-entered data, and
+
+ - Calculated data.
+
+- Actions and issues management.
+
+- Quality systems management.
 
 ---
 
