@@ -26,14 +26,28 @@
 
 1. Snapshot current risks
 2. Investigate options
- 1. Do nothing
- 2. COTs, e.g. bowtie XP
- 3. Something new
+ - Do nothing
+ - COTs, e.g. bowtie XP
+ - Something new
 
 +++
 
 ### phase 2
 
-Develop integration methods 
+1. Develop integration methods 
+2. Test
 
++++
 
+### phase 3
+
+1. Transition
+2. Document
+
+---
+
+@title[Private Investocat]
+
+<span style="color:gray; font-size:0.7em"><span>
+
+![Image-Absolute](https://www.github.com/gavinedwards/sqirm/www/html/img/logosm.png)
