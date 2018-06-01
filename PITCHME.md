@@ -50,4 +50,4 @@
 
 <span style="color:gray; font-size:0.7em"><span>
 
-![Image-Absolute](https://www.github.com/gavinedwards/sqirm/www/html/img/logosm.png)
+![Image-Absolute](https://raw.githubusercontent.com/gavinedwards/sqirm/master/www/html/img/logosm.png)
