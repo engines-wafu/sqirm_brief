@@ -6,17 +6,13 @@
 
 ## integrated, useful, and easy to use
 
-- Risks (in the form of bowtie assessments).
+- Risks
 
-- Key performance indicators using either of the following:
+- Key performance indicators
 
- - Static, or user-entered data, and
+- Actions and issues management
 
- - Calculated data.
-
-- Actions and issues management.
-
-- Quality systems management.
+- Quality systems management
 
 ---
 
@@ -30,9 +26,9 @@
 
 1. Snapshot current risks
 2. Investigate options
- a. Do nothing
- b. COTs, e.g. bowtie XP
- c. Something new
+ 1. Do nothing
+ 2. COTs, e.g. bowtie XP
+ 3. Something new
 
 +++
 
